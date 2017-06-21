@@ -56,6 +56,7 @@
 		EBBAB3DA1EFAB31200F748A1 /* DreamLister */ = {
 			isa = PBXGroup;
 			children = (
+				EBBAB4001EFAD63000F748A1 /* Model */,
 				EBBAB3DB1EFAB31200F748A1 /* AppDelegate.swift */,
 				EBBAB3DD1EFAB31200F748A1 /* ViewController.swift */,
 				EBBAB3DF1EFAB31200F748A1 /* Main.storyboard */,
@@ -65,6 +66,13 @@
 				EBBAB3E21EFAB31200F748A1 /* DreamLister.xcdatamodeld */,
 			);
 			path = DreamLister;
+			sourceTree = "<group>";
+		};
+		EBBAB4001EFAD63000F748A1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
